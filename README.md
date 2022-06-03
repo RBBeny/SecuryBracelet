@@ -10,8 +10,8 @@
 ### Materiales:
 | Nombre     | Descripción | Cantidad|
 | ---------- | ------ | ------ |
-| ESP-CAM    | | |
-| ESP-CAM-MB | | |
+| ESP-CAM    | Modulo wifi con camara | 1 |
+| ESP-CAM-MB | Modulo para programar en el Modulo wifi | 1 |
 |            | | |
 |            | | |
 |            | | |
