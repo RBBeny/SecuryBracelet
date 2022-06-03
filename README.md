@@ -14,5 +14,5 @@
 | ESP-CAM-MB | Modulo para programar en el Modulo wifi | 1 |
 | Ky-037     | Modulo de sensor de donido | 1 |
 | Neo-6m     | Modulo Gps | 1 |
-|            | | |
+| Memoria micro sd | Guardar las fotos de la camara | 1 |
 |            | | |
