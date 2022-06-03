@@ -8,11 +8,11 @@
 
 
 ### Materiales:
-| Nombre | Descripción | Cantidad|
-| ------ | ------ | ------ |
-|  | | |
-|  | | |
-|  | | |
-|  | | |
-|  | | |
-|  | | |
+| Nombre     | Descripción | Cantidad|
+| ---------- | ------ | ------ |
+| ESP-CAM    | | |
+| ESP-CAM-MB | | |
+|            | | |
+|            | | |
+|            | | |
+|            | | |
