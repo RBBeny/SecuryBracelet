@@ -26,9 +26,9 @@ prontamente su reforma si se quiere enfrentar el problema.
 ### Materiales:
 | Nombre     | Descripción | Imagen | Cantidad|
 | ---------- | ------ | --------| ------ |
-| ESP-CAM    | Modulo wifi con camara | ![alt text](http://url/to/img.png) | 1 |
-| ESP-CAM-MB | Modulo para programar en el Modulo wifi | |1 |
-| Ky-037     | Modulo de sensor de donido | | 1 |
-| Neo-6m     | Modulo Gps | | 1 |
+| ESP-CAM    | Modulo wifi con camara | ![alt text](![image](https://user-images.githubusercontent.com/72763492/172965555-24fb2063-db13-46d2-b385-870ef3e863eb.png) | 1 |
+| ESP-CAM-MB | Modulo para programar en el Modulo wifi | ![alt text](https://m.media-amazon.com/images/I/71tPi8Dn1hL._AC_SL1500_.jpg) |1 |
+| Ky-037     | Modulo de sensor de donido | ![alt text](![image](https://user-images.githubusercontent.com/72763492/172965637-ffebedc3-8662-400f-9f1a-9cd37ebe0c5d.png) | 1 |
+| Neo-6m     | Modulo Gps | ![alt text](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRfqi2PJ0tNBLSzyX_7u-lzNtm2CjN-2dTO5MmD2eGg3uD5kBU-AMJ5e6lcWyvewelaoiyw7vJl8Rsougr_ZvLb14qdcX2L) | |
 | Memoria micro sd | Guardar las fotos de la camara | ![alt text](https://ddtech.mx/assets/uploads/52c4d24ef315d60532b169495a46caf5.jpg) | 1 |
 |            | | | |
