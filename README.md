@@ -51,3 +51,8 @@ https://github.com/RBBeny/SecuryBracelet/blob/main/diagrama.png?raw=true)
 ### Diagrama de componente
 
 ![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/diagramadibujado.jpeg?raw=true)
+
+
+### Tablero Trello
+
+https://trello.com/invite/b/wA4FDrtI/514772325cf0dbe6b85bacafde44e1c5/security-bracelet
