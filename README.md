@@ -35,7 +35,7 @@ prontamente su reforma si se quiere enfrentar el problema.
 
 
 
-### Materiales:
+### Epicas:
 
 *	Yo como usuario quiero que mi brazalete de seguridad se active al escuchar una palabra clave configurada previamente, para que el brazalete active las diferentes funcionalidades.
 * Yo como usuario quiero que mi brazalete de seguridad pueda grabar audio, para poder activar el brazalete y grabar algún audio que sirva de referencia en caso de que me encuentre en un momento de peligro.
