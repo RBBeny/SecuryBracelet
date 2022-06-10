@@ -41,3 +41,13 @@ prontamente su reforma si se quiere enfrentar el problema.
 * Yo como usuario quiero que mi brazalete de seguridad pueda grabar audio, para poder activar el brazalete y grabar algún audio que sirva de referencia en caso de que me encuentre en un momento de peligro.
 *	Yo como usuario quiero que mi brazalete de seguridad pueda tomar fotografía, para poder capturar alguna imagen que sirva como referencia en caso de que me encuentre en un momento de peligro.
 *	Yo como usuario quiero que mi brazalete de seguridad contenga mi ubicación como referencia en caso de que me encuentre en un momento de peligro.
+
+### Diagrama a utilizar
+
+
+![alt text](
+https://github.com/RBBeny/SecuryBracelet/blob/main/diagrama.png?raw=true)
+
+### Diagrama de componente
+
+![alt text]()
