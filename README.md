@@ -50,4 +50,4 @@ https://github.com/RBBeny/SecuryBracelet/blob/main/diagrama.png?raw=true)
 
 ### Diagrama de componente
 
-![alt text]()
+![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/diagramadibujado.jpeg?raw=true)
