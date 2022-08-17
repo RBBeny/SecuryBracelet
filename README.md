@@ -34,10 +34,10 @@ prontamente su reforma si se quiere enfrentar el problema.
 ### Materiales:
 | Nombre     | Descripción | Imagen | Cantidad|
 | ---------- | ------ | --------| ------ |
-| ESP-8266    | Modulo wifi con camara | ![alt text](![image](https://media.naylampmechatronics.com/474-medium_default/nodemcu-v2-esp8266-wifi.jpg width=100) | 1 |
-| ESP-8266 | Modulo para programar en el Modulo wifi | ![alt text](https://media.naylampmechatronics.com/474-medium_default/nodemcu-v2-esp8266-wifi.jpg width=100) |1 |
-| Pantalla Oled     | Modulo de sensor de donido | ![alt text](![image](https://www.luisllamas.es/wp-content/uploads/2016/11/arduino-pantalla-oled-esquema.png) | 1 |
-| Neo-6m     | Modulo Gps | ![alt text](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRfqi2PJ0tNBLSzyX_7u-lzNtm2CjN-2dTO5MmD2eGg3uD5kBU-AMJ5e6lcWyvewelaoiyw7vJl8Rsougr_ZvLb14qdcX2L) | 1|
+| ESP-8266    | Modulo wifi con camara | ![alt text](https://media.naylampmechatronics.com/474-medium_default/nodemcu-v2-esp8266-wifi.jpg) | 1 |
+| ESP-8266 | Modulo para programar en el Modulo wifi | ![alt text](https://media.naylampmechatronics.com/474-medium_default/nodemcu-v2-esp8266-wifi.jpg) | 1 |
+| Pantalla Oled     | Modulo de sensor de sonido | ![alt text](https://www.luisllamas.es/wp-content/uploads/2016/11/arduino-pantalla-oled-esquema.png) | 1 |
+| Neo-6m     | Modulo Gps | ![alt text](https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcRfqi2PJ0tNBLSzyX_7u-lzNtm2CjN-2dTO5MmD2eGg3uD5kBU-AMJ5e6lcWyvewelaoiyw7vJl8Rsougr_ZvLb14qdcX2L) | 1 |
 |       Bateria     | Para dar energia al prototipo | ![alt text](https://www.steren.com.mx/media/catalog/product/cache/532829604b379f478db69368d14615cd/image/21920955a/power-bank-de-20-000-mah-con-turbo-charge-qc-y-power-delivery-con-2-salidas-usb-y-usb-c.jpg) | 1 |
 
 ## Software a utilizar:
@@ -56,7 +56,7 @@ https://github.com/RBBeny/SecuryBracelet/blob/main/diagrama.png?raw=true)
 
 ### Diagrama de componente
 
-![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/diagramadibujado.jpeg?raw=true = 250x250)
+![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/diagramadibujado.jpeg?raw=true)
 
 
 ### Tablero Trello
