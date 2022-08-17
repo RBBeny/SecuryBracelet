@@ -1,3 +1,22 @@
+/*
+ * Autores: Benjamin Ramirez Bolaños
+ *          Dulce Maria Silva Gutierrez
+ *          Jose Antonio Martinez Garcia
+ *          Oscar Castañeda Rivera
+ *          
+ * 
+ * Basado en:
+ *          https://www.youtube.com/watch?v=FWOTVISvb5Q
+ *          
+ *          https://www.youtube.com/watch?v=FoUBN8vbS38
+ *          
+ *          https://randomnerdtutorials.com/esp32-send-email-smtp-server-arduino-ide/
+ *          
+ *          
+ */
+
+ // Librerias a comentar
+
 #include <TinyGPS++.h>
 #include <SoftwareSerial.h>
 #include <ESP8266WiFi.h>
@@ -12,9 +31,12 @@
 #define SCREEN_HEIGHT 64 // OLED display height, in pixels
 
 
+// Credenciaales para wifi
 #define WIFI_SSID "BENY"
 #define WIFI_PASSWORD "123456789"
 
+
+//credenciales para correo
 #define SMTP_HOST "smtp.gmail.com"
 #define SMTP_PORT 465
 
@@ -38,6 +60,9 @@ SoftwareSerial SerialGPS(12, 14);
 const char* ssid = "BENY";
 const char* password = "123456789";
 
+//iniciar cordenadad
+
+
 float Latitude , Longitude;
 int year , month , date, hour , minute , second;
 String DateString , TimeString , LatitudeString , LongitudeString;
@@ -46,6 +71,8 @@ String DateString , TimeString , LatitudeString , LongitudeString;
 WiFiServer server(80);
 void setup()
 {
+
+  //iniciar wifi
   Serial.begin(115200);
   SerialGPS.begin(9600);
   Serial.println();
@@ -63,6 +90,7 @@ void setup()
   Serial.println("Server started");
   Serial.println(WiFi.localIP());
 
+  //conectar pagina
   if(!display.begin(SSD1306_SWITCHCAPVCC, 0x3C)) { 
   Serial.println("SSD1306 allocation failed");
   for(;;);
@@ -77,11 +105,14 @@ void loop()
     {
       if (gps.location.isValid())
       {
+        //guardar cordenadas
         Latitude = gps.location.lat();
         LatitudeString = String(Latitude , 6);
         Longitude = gps.location.lng();
         LongitudeString = String(Longitude , 6);
       }
+
+      //configurar fecha
 
       if (gps.date.isValid())
       {
@@ -129,7 +160,9 @@ void loop()
       }
 
     }
-    
+
+
+    //guardar datos en pantalla
   display.setFont(&FreeSerif9pt7b);
   display.clearDisplay();
   display.setTextSize(1);             
@@ -151,6 +184,8 @@ void loop()
   {
     return;
   }
+
+  //crear pagina web y mostrar
 
   //Response
   String s = "HTTP/1.1 200 OK\r\nContent-Type: text/html\r\n\r\n <!DOCTYPE html> <html> <head> <title>Mi ubi</title> <style>";
