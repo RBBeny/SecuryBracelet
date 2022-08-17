@@ -61,3 +61,6 @@ https://github.com/RBBeny/SecuryBracelet/blob/main/diagrama.png?raw=true)
 ### Tablero Trello
 
 https://trello.com/invite/b/wA4FDrtI/514772325cf0dbe6b85bacafde44e1c5/security-bracelet
+
+![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/trello.jpg?raw=true)
+
