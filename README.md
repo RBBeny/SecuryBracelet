@@ -68,4 +68,9 @@ https://trello.com/invite/b/wA4FDrtI/514772325cf0dbe6b85bacafde44e1c5/security-b
 ![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/sprint2.jpeg?raw=true)
 
 ## Prototipo final 
-![alt text]()
+![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/sprint3.jpeg?raw=true)
+
+
+## Carcasa en 3d, diseño
+
+![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/impresion3d.jpeg?raw=true)
