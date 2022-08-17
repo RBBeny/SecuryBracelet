@@ -46,6 +46,7 @@ prontamente su reforma si se quiere enfrentar el problema.
 | -------|----------| ----------|
 | IDE Arduino | Software libre | IDE es un conjunto de herramientas de software que permiten a los programadores desarrollar y grabar todo el código necesario para hacer que nuestro Arduino funcione como queramos. |
 | GitHub | Software libre | La plataforma está creada para que los desarrolladores suban el código de sus aplicaciones y herramientas, y que como usuario no sólo puedas descargarte la aplicación |
+| Google Maps | Libre de menos de 10000 solicitudes | Nos funciona para mostrar la ubicacion con las cordenadas que nos proporciona el sensor |
 
 ### Diagrama a utilizar
 
@@ -55,7 +56,7 @@ https://github.com/RBBeny/SecuryBracelet/blob/main/diagrama.png?raw=true)
 
 ### Diagrama de componente
 
-![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/diagramadibujado.jpeg?raw=true)
+![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/diagramadibujado.jpeg?raw=true = 250x250)
 
 
 ### Tablero Trello
