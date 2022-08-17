@@ -65,4 +65,4 @@ https://trello.com/invite/b/wA4FDrtI/514772325cf0dbe6b85bacafde44e1c5/security-b
 ![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/trello.jpg?raw=true)
 
 ## prototipo sprint 2 
-![alt text](blob:https://web.whatsapp.com/06848420-e4c2-4fd2-98f4-17e67686e731)
+![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/sprint2.jpeg?raw=true)
