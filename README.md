@@ -94,3 +94,8 @@ Se envia un correo con el link de la ubicacion y asi el destinatario pueda ver d
 Se marca un marcador y para esto se utilizo la libreria de google maps
 
 ![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/mapsa.jpeg?raw=true)
+
+
+## video de presentacion 
+
+https://youtu.be/yqKuuNZxFCk 
