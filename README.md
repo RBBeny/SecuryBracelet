@@ -5,10 +5,9 @@
 ### Objetivo:
 
 Security bracelet es un brazalete para ayudar en un momento de peligro. De manera que en una situación de peligro, 
-el usuario podrá activar las funcionalidades configuradas en el brazalete mediante el reconocimiento de voz, pues
-al momento en que el usuario diga su plalabra segura. El brazalete tendrá la capacidad de tomar un minimo de tres 
-fotografias, con una espera de 2 segundos en cada toma.
-
+el usuario podrá activar las funcionalidades configuradas en el brazalete, pues
+al momento en que el usuario enviara un correo de ayuda. El brazalete tendrá la capacidad de identificar la ubicacion 
+con el modulo de gps y mostrarlo en la pantalla y ademas de dar la hora como otros relojes
 
 
 
@@ -23,6 +22,15 @@ estructuras de seguridad, inteligencia y justicia se encuentran sobrepasadas y c
 prontamente su reforma si se quiere enfrentar el problema.
 
 
+### Epicas:
+
+
+	Yo como usuario quiero que mi brazalete de seguridad se active al escuchar una palabra clave configurada previamente, para que el brazalete active las diferentes funcionalidades.
+	Yo como usuario quiero que mi brazalete de seguridad pueda grabar audio, para poder activar el brazalete y grabar algún audio que sirva de referencia en caso de que me encuentre en un momento de peligro y se envíe a mi contacto de emergencia, alertando que me encuentro en peligro.
+	Yo como usuario quiero que mi brazalete de seguridad pueda tomar fotografía, para poder capturar alguna imagen que sirva como referencia en caso de que me encuentre en un momento de peligro, y se envíe a mi contacto de emergencia, alertando que me encuentro en peligro.
+	Yo como usuario quiero que mi brazalete de seguridad contenga mi ubicación como referencia en caso de que me encuentre en un momento de peligro y se envíe a mi contacto de emergencia, alertando que me encuentro en peligro.
+	Yo como usuario quiero que mi brazalete de seguridad contenga una pequeña pantalla para que me muestre mi ubicación, para que me sirva para precisar donde me encuentro.
+
 ### Materiales:
 | Nombre     | Descripción | Imagen | Cantidad|
 | ---------- | ------ | --------| ------ |
@@ -33,14 +41,12 @@ prontamente su reforma si se quiere enfrentar el problema.
 | Memoria micro sd | Guardar las fotos de la camara | ![alt text](https://ddtech.mx/assets/uploads/52c4d24ef315d60532b169495a46caf5.jpg) | 1 |
 |       Bateria     | Para dar energia al prototipo | ![alt text](https://www.steren.com.mx/media/catalog/product/cache/532829604b379f478db69368d14615cd/image/21920955a/power-bank-de-20-000-mah-con-turbo-charge-qc-y-power-delivery-con-2-salidas-usb-y-usb-c.jpg) | 1 |
 
+## Software a utilizar:
 
-
-### Epicas:
-
-*	Yo como usuario quiero que mi brazalete de seguridad se active al escuchar una palabra clave configurada previamente, para que el brazalete active las diferentes funcionalidades.
-* Yo como usuario quiero que mi brazalete de seguridad pueda grabar audio, para poder activar el brazalete y grabar algún audio que sirva de referencia en caso de que me encuentre en un momento de peligro.
-*	Yo como usuario quiero que mi brazalete de seguridad pueda tomar fotografía, para poder capturar alguna imagen que sirva como referencia en caso de que me encuentre en un momento de peligro.
-*	Yo como usuario quiero que mi brazalete de seguridad contenga mi ubicación como referencia en caso de que me encuentre en un momento de peligro.
+| Nombre | Licencia | Descripción |
+| -------|----------| ----------|
+| IDE Arduino | Software libre | IDE es un conjunto de herramientas de software que permiten a los programadores desarrollar y grabar todo el código necesario para hacer que nuestro Arduino funcione como queramos. |
+| GitHub | Software libre | La plataforma está creada para que los desarrolladores suban el código de sus aplicaciones y herramientas, y que como usuario no sólo puedas descargarte la aplicación |
 
 ### Diagrama a utilizar
 
