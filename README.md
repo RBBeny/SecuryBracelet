@@ -25,11 +25,11 @@ prontamente su reforma si se quiere enfrentar el problema.
 ### Epicas:
 
 
-	Yo como usuario quiero que mi brazalete de seguridad se active al escuchar una palabra clave configurada previamente, para que el brazalete active las diferentes funcionalidades.
-	Yo como usuario quiero que mi brazalete de seguridad pueda grabar audio, para poder activar el brazalete y grabar algún audio que sirva de referencia en caso de que me encuentre en un momento de peligro y se envíe a mi contacto de emergencia, alertando que me encuentro en peligro.
-	Yo como usuario quiero que mi brazalete de seguridad pueda tomar fotografía, para poder capturar alguna imagen que sirva como referencia en caso de que me encuentre en un momento de peligro, y se envíe a mi contacto de emergencia, alertando que me encuentro en peligro.
-	Yo como usuario quiero que mi brazalete de seguridad contenga mi ubicación como referencia en caso de que me encuentre en un momento de peligro y se envíe a mi contacto de emergencia, alertando que me encuentro en peligro.
-	Yo como usuario quiero que mi brazalete de seguridad contenga una pequeña pantalla para que me muestre mi ubicación, para que me sirva para precisar donde me encuentro.
+*	Yo como usuario quiero que mi brazalete de seguridad se active al escuchar una palabra clave configurada previamente, para que el brazalete active las diferentes funcionalidades.
+*	Yo como usuario quiero que mi brazalete de seguridad pueda grabar audio, para poder activar el brazalete y grabar algún audio que sirva de referencia en caso de que me encuentre en un momento de peligro y se envíe a mi contacto de emergencia, alertando que me encuentro en peligro.
+*	Yo como usuario quiero que mi brazalete de seguridad pueda tomar fotografía, para poder capturar alguna imagen que sirva como referencia en caso de que me encuentre en un momento de peligro, y se envíe a mi contacto de emergencia, alertando que me encuentro en peligro.
+*	Yo como usuario quiero que mi brazalete de seguridad contenga mi ubicación como referencia en caso de que me encuentre en un momento de peligro y se envíe a mi contacto de emergencia, alertando que me encuentro en peligro.
+*	Yo como usuario quiero que mi brazalete de seguridad contenga una pequeña pantalla para que me muestre mi ubicación, para que me sirva para precisar donde me encuentro.
 
 ### Materiales:
 | Nombre     | Descripción | Imagen | Cantidad|
