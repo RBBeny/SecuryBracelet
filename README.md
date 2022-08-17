@@ -68,9 +68,28 @@ https://trello.com/invite/b/wA4FDrtI/514772325cf0dbe6b85bacafde44e1c5/security-b
 ![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/sprint2.jpeg?raw=true)
 
 ## Prototipo final 
+
+Es todo completo con las funcionalidades terminadas y funcionando autonamente sin necesidad de tenerlo conectado a la computadora
 ![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/sprint3.jpeg?raw=true)
 
 
 ## Carcasa en 3d, diseño
 
+La carcasa la imprimimos con la impresora 3D que se encuentra en las instalaciones de la universidad 
 ![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/impresion3d.jpeg?raw=true)
+
+## Captura de aplicacion web para mostrar los datos
+En esta pagina mostramos datos que se envian en tiempo real como lo son las cordenadas y fecha y hora, ademas un link para abrir el mapa con la ubicación
+
+![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/paginaweb.jpeg?raw=true)
+
+## Envio de correo
+Se envia un correo con el link de la ubicacion y asi el destinatario pueda ver donde se encuantra
+
+![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/emails.jpeg?raw=true)
+
+## Ver Ubicación en el maps
+
+Se marca un marcador y para esto se utilizo la libreria de google maps
+
+![alt text](https://github.com/RBBeny/SecuryBracelet/blob/main/mapsa.jpeg?raw=true)
